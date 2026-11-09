@@ -15,5 +15,13 @@ public class Class1
 		  double sum = a + b + c;
 		  Console.WriteLine("The sum of " + a + ", " + b + ", and " + c + " is: " + sum);
         }
-     }
+
+	    public bool Add(string a, string b)
+	    {
+		  double num1, num2;
+		   Console.WriteLine("The sum of " + a + " and " + b + " is: ");
+         }			
+			
+
+    }
 }
